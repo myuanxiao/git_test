@@ -1,6 +1,3 @@
 abc
 de
-
-f
-
-gh
+fg
